@@ -9,7 +9,7 @@ All the rooms herein, are absolutely free. ATTACK!!
 
 ## Maintainer
 
-> **_This repository is maintained by [ winterrdog ](https://github.com/dasarivarunreddy). For any suggestion feel free to reach out to [me.](https://linktr.ee/dasarivarunreddy)_**
+> **_This repository is maintained by [ Dasari Varun Reddy ](https://github.com/dasarivarunreddy). For any suggestion feel free to reach out to [me.](https://linktr.ee/dasarivarunreddy)_**
 
 ## Table of Contents
 
